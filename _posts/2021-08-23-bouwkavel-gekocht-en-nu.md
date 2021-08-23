@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bouwkavel gekocht, en nu?"
-author: Lise
+author: lise
 categories: [Kavel]
 tags: [Kavel]
 image: assets/images/bouwgrondtekoop.jpg
