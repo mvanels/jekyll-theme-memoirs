@@ -4,7 +4,7 @@ title: Over ons
 
 permalink: /about
 comments: false
-image: assets/images/maartenenlise.jpg
+image: ../assets/images/maartenenlise.jpg
 ---
 
 Hoi! 
