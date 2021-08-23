@@ -4,7 +4,7 @@ title: Over ons
 
 permalink: /about
 comments: false
-image: 
+image: 8414B3E4-34C8-4A60-B2C7-49EEB0CC4AF6.heic
 imageshadow: 
 ---
 
