@@ -2,8 +2,8 @@
 layout: post
 title:  "Bouwkavel gekocht, en nu?"
 author: Lise
-categories: []
-tags: []
+categories: [Kavel]
+tags: [Kavel]
 image: assets/images/2.jpg
 ---
 
