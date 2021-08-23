@@ -4,7 +4,7 @@ title: Over ons
 
 permalink: /about
 comments: false
-image: assets/images/WhatsApp Image 2021-08-23 at 22.42.53.jpeg
+image: assets/images/maartenenlise.jpeg
 imageshadow: 
 ---
 
