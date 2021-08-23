@@ -4,7 +4,7 @@ title: Over ons
 
 permalink: /about
 comments: false
-image: assets/images/8414B3E4-34C8-4A60-B2C7-49EEB0CC4AF6.heic
+image: assets/images/WhatsApp Image 2021-08-23 at 22.42.53.jpeg
 imageshadow: 
 ---
 
