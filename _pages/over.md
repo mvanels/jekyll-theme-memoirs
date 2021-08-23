@@ -4,7 +4,7 @@ title: Over ons
 
 permalink: /about
 comments: false
-image: assets/images/maartenenlise.jpeg
+image: https://github.com/mvanels/jekyll-theme-memoirs/blob/d4c59958524fa0ff78dc60c98e2228e16207a985/assets/images/maartenenlise.jpeg
 imageshadow: 
 ---
 
