@@ -17,7 +17,7 @@ authors:
   lise:
     name: Lise
     display_name: Lise    
-    avatar: 'assets/images/avatar.png'
+    avatar: '/assets/images/AvatarMaker.png'
     email: lise@ariensvanels.nl
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
   maarten:
