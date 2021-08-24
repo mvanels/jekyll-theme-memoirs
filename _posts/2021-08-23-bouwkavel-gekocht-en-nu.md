@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Bouwkavel gekocht, en nu?"
-author: "lise"
-categories: [Kavel]
 tags: [Kavel]
-image: ../assets/images/bouwgrondtekoop.jpg
+image: /assets/images/bouwgrondtekoop.jpg
 ---
 
 Een eigen huis bouwen, het is voor veel mensen een droom. Een woning die precies aansluit op jouw wensen en volledig aansluit op jouw stijl en woonbehoeftes. Voor veel mensen blijft het echter een droom, want een eigen huis bouwen is voor niet iedereen weggelegt. Bouwkavels waar je zelf de regie mag voeren zijn schaars en vaak erg in trek wanneer ze beschikbaar komen voor verkoop. Wellicht heb je jezelf al meerdere keren ingeschreven op bouwkavels van de Gemeente, maar wordt je elke keer weer uitgeloot. Of misschien gaat dat perfecte kavel telkens net aan je neus voorbij. 
